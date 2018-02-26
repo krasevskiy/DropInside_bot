@@ -15,7 +15,7 @@ import python3pickledb as pickledb
 # Configuration
 BOTNAME = 'DropInsider_bot'
 TOKEN = '541656105:AAFUfM3ER-Vn4UTKvT51vSk_1eBVedTqsu8'
-BOTAN_TOKEN = 'BOTANTOKEN'
+BOTAN_TOKEN = '541656105:AAFUfM3ER-Vn4UTKvT51vSk_1eBVedTqsu8'
 
 help_text = 'Welcomes everyone that enters a group chat that this bot is a ' \
             'part of. By default, only the person who invited the bot into ' \
